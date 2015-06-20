@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.tomorrowkey.android.applink",
+    "sha256_cert_fingerprints": ["A2:C1:68:BF:ED:CD:E2:1C:11:25:C4:F9:CF:5D:7B:EA:AC:B5:38:1E:AF:72:FA:30:6C:A2:9A:8F:B2:08:16:E6"]
+  }
+}]
